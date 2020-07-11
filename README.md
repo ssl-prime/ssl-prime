@@ -2,7 +2,7 @@
 
 
 <p float="centre">
-  <img src="https://github.com/ssl-prime/ssl-prime/raw/master/go.gif"  height="120" />
+  <img src="https://github.com/ssl-prime/ssl-prime/raw/master/gov.gif"  height="120" />
 </p>
 
 <!--
